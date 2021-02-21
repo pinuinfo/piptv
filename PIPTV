@@ -7,6 +7,8 @@ http://10.16.100.203:8082/bangla/atnbangla.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV Bangla [NEOBD]
 http://tv.neobd.net:1935/live/tv2/chunklist_w1824446364.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Cvx0HserZWTFMd_A4a_qDMqaacXhL27XgzULnEJ4mNgzW8baUjzhm5V5ZD9K5bw6Yuukj-URmjtafOZwvosuZo58_WvwGzdozKedU4DYRXmAWxh4sA",SA TV Bangla [JagoBD]
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x13766",Jamuna TV Bangla [EBOX]
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x13766",Jamuna TV Bangla [ICC]
@@ -25,6 +27,8 @@ http://tv2.ebox.live:8080/live/ex-chi.m3u8
 http://103.205.133.20/hls/ichannel.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x13766",Channel I Bangla [ICC]
 http://10.16.100.205/hls/ch_i.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzkCcSwIbFdzh4Skw_IZqp-HH9jjV6zyNGZkyazJQ=s176-c-k-c0xffffffff-no-rj-mo",Independent TV Bangla [JagoBD]
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://icc.moviemela.live/files/rtv.png",RTV HD Bangla [EBOX]
 http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1 tvg-logo="http://icc.moviemela.live/files/rtv.png",RTV Bangla [ICC]
