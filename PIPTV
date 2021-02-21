@@ -74,12 +74,12 @@ http://103.80.70.59/hls/stream10.m3u8
 
 #EXTINF:-1 tvg-logo="https://d23.com/app/uploads/2019/07/071519_nat-geo-pr-expo-1180w-600hIris-780x440-1563206695.jpg",NGC HD [EBOX]
 http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:-1 tvg-logo="https://d23.com/app/uploads/2019/07/071519_nat-geo-pr-expo-1180w-600hIris-780x440-1563206695.jpg",NGC HD Bangla [103.80]
+http://103.80.70.59/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg",Discovery HD [EBOX]
 http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg",Discovery HD Bangla [103.80]
 http://103.80.70.59/hls/stream9.m3u8
-#EXTINF:-1 tvg-logo="https://d23.com/app/uploads/2019/07/071519_nat-geo-pr-expo-1180w-600hIris-780x440-1563206695.jpg",NGC HD Bangla [103.80]
-http://103.80.70.59/hls/stream13.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/starmovies-lg.jpg",Star Movies [EBOX]
 http://tv2.ebox.live:8080/live/star-movies.m3u8
