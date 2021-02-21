@@ -5,10 +5,14 @@ http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x13766",ATN Bangla [JagoBD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV Bangla [NEOBD]
+http://tv.neobd.net:1935/live/tv2/chunklist_w1824446364.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x13766",Jamuna TV Bangla [EBOX]
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x13766",Jamuna TV Bangla [ICC]
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x13766",Channel 24 Bangla [JagoBD]
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x13766",Banglavision Bangla [EBOX]
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x13766",Banglavision Bangla [103.205]
@@ -38,6 +42,8 @@ http://10.16.100.203:8082/bangla/dbcnews.m3u8
 http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/text-nick-nickelodeon-logo-png-9.png",NICK [103.80]
 http://103.80.70.59/hls/stream23.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/text-nick-nickelodeon-logo-png-9.png",NICK [LiveVoot]
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
 
 #EXTINF:-1 tvg-logo="http://icc.moviemela.live/files/tsports(1).png",T-Sports HD Bangla [EBOX]
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
@@ -80,6 +86,14 @@ http://103.80.70.59/hls/stream13.m3u8
 http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg",Discovery HD Bangla [103.80]
 http://103.80.70.59/hls/stream9.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg",Discovery HD Hindi [IDVO]
+https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/493967_preview.png",Discovery Science Hindi [IDVO]
+https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/493967_preview.png",Discovery Science English [IDVO]
+https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
+#EXTINF:-1 tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2014/02/discovery-kids-logo.jpg",Discovery Kids [IDVO]
+https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/starmovies-lg.jpg",Star Movies [EBOX]
 http://tv2.ebox.live:8080/live/star-movies.m3u8
