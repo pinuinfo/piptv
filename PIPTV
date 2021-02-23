@@ -115,6 +115,8 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 http://10.16.100.201/hindi/sonytv_1stop_bd.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201901/sony-sab.jpg",SONY SUB HD [EBOX]
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/ZEE_TV_new_logo1_3.jpg&w=620&h=350&zc=1&q=100",ZEE TV HD [Khushitv]
+http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/colors-hd.png",COLORS HD [EBOX]
 http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/colors-hd.png",COLORS [ICC]
