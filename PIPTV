@@ -9,3 +9,15 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/194358
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/11642
 #EXTINF:0,SSC (KSA)
 https://ssc-5-ak.akamaized.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8?token=https://t.me/freesports4all
+#EXTINF:0,SSC Extra 1 (KSA)
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/280136
+#EXTINF:0,T Sports HD (BD)
+https://live.tsports.com/live/tsports_live_720/index.m3u8?key=@freesports4all
+#EXTINF:0,Toffee Live (BD)
+https://mprod-cdn.toffeelive.com/ilt20/channel-1/master_850.m3u8
+#EXTINF:0,Sports 18 HD (IN)
+http://watchindia.net:8880/live/62379/61325/2405.m3u8
+#EXTINF:0,Star Sports Select 1 (IN)
+http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/2508/index.m3u8
+#EXTINF:0,Star Sports Select 2 (IN)
+http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/2507/index.m3u8
