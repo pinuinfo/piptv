@@ -156,3 +156,10 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/278706
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/91704
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c9e2ab32a46aa83a3a64750d87e4fc2c.png" group-title="Italy",IT: Sky Sport Football
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/2543
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="Spain",ES: DAZN 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/64711
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: MOVISTAR LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1141
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LaLiga 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/5311
