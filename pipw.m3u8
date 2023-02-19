@@ -36,3 +36,7 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/194358
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa",ZA: SuperSport LaLiga
 https://alexsports.shop:30444/live/abr_ch4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="South Africa",ZA: SuperSport Motorsport
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/11638
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="South Africa",ZA: SuperSport Cricket
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/11637
