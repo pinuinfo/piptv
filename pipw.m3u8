@@ -1,4 +1,65 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ed17d1552de03d6c86481eb7b1deff6.png" group-title="India",IN: Cartoon Network
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/82584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3681e2dc4800213e1c2c4142afe6108.png" group-title="India",IN: Disney Channel
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/192985
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/249c454173fa6205144acb92a8e5c25e.png" group-title="India",IN: Discovery Kids
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/82683
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/901b40ebf06e7a9fe401a3ad17c37aa0.png" group-title="India",IN: Discovery Science
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1363
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e09b6b18106fce22c2dd8fed0a50589e.png" group-title="India",IN: Discovery World
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/73792
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony BBC Earth" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2923e17c63e1e3a6a95152d4ebc66b38.png" group-title="India ➾ Nature",IN: Sony BBC Earth
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/192995
+#EXTINF:-1 tvg-id="" tvg-name="IN: History" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/80f622e12a49612bc7675a0acb21885d.png" group-title="India",IN: History
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/82604
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV Beats" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c167264b1c8ed82ac209f94dec1319c2.png" group-title="India",IN: MTV Beats
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/193068
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53fbf5a419f6643e41151df74bb16b9e.png" group-title="India",IN: MTV India
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/193647
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c8999c3f7f2a94b767b604985edbc245.jpg" group-title="India",IN: Sony
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/281867
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/01624dbf5b113c4b044aa7bb9e7104f1.png" group-title="India",IN: Sony Max
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1359
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d4975f023a98c9cebea516a4fd98482c.png" group-title="India",IN: Sony Max 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/4862
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/204aab77089639f2bc393838adfd5580.png" group-title="India",IN: Sony Max India
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/63397
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB TV Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="India",IN: Sony SAB TV Asia
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1073
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB TV India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2c6c32cacf21d1bfe5c1949ec424fa6.png" group-title="India",IN: Sony SAB TV India
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/20649
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title="India",IN: Star Gold
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1070
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="India",IN: Star Gold 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/43919
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="India",IN: STAR Movies
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/11511
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="India",IN: Sony Ten 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/16622
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="India",IN: Sony Ten 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/16621
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="India",IN: Sony Ten 3
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/56191
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="India",IN: Star Sports 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/3630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="India",IN: Star Sports 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/3631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="India",IN: Star Sports 3
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/62584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/32dd229ae9dd6bb71e041ba5545ca2b9.jpg" group-title="India",IN: Star Sports Select 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/82628
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title="India",IN: Star Sports Select 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/16619
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Channel i TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/8c7ef56227c1ada652f639d88755676d.jpeg" group-title="India",IN: Channel i TV
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/296496
+#EXTINF:-1 tvg-id="" tvg-name="IN: DBC NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c364c68b726c8fb3acea5ca283fde6db.jpeg" group-title="India",IN: DBC NEWS
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/296494
+#EXTINF:-1 tvg-id="" tvg-name="IN: SOMOY TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5e39825b86278ca2c52eb7b68d000249.jpeg" group-title="India",IN: SOMOY TV
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/296493
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia",MY: Astro SuperSport 1 (iptvtree)
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/146068
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia",MY: Astro SuperSport 1 (.ts)
