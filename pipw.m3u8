@@ -174,3 +174,12 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/48355
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/2431
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/fb2eaf329b2b21db2465a65b6561f37a.png" group-title="Germany",DE: Sky Sport Bundesliga 2
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/4493
+
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal",PT: ELEVEN SPORTS 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1499
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal",PT: ELEVEN SPORTS 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1503
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal",PT: SPORT TV 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1483
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal",PT: SPORT TV 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1486
