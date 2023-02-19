@@ -115,3 +115,32 @@ https://alexsports.shop:30444/live/abr_ch4/playlist.m3u8
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/11638
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="South Africa",ZA: SuperSport Cricket (iptvtree)
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/11637
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="UK",UK: BT Sport 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/270
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="UK",UK: BT Sport 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/273
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="UK",UK: BT Sport 3
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/271
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="UK",UK: EUROSPORT 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/692
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" group-title="UK",UK: EUROSPORT 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1555
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png" group-title="UK",UK: Premier Sports 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1097
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/35affbf18fb742f52581f3f069a97258.png" group-title="UK",UK: Premier Sports 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/4723
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png" group-title="UK",UK: Sky Sports Action
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/268
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="UK",UK: Sky Sports Arena
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/267
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="UK",UK: Sky Sports Cricket
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/269
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="UK",UK: Sky Sports F1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/265
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png" group-title="UK",UK: Sky Sports Football
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/266
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="UK",UK: Sky Sports Main Event
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/283053
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="UK",UK: Sky Sports Premier League
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/263
