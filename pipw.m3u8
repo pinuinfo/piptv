@@ -198,3 +198,12 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/280145
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/1287
 #EXTINF:-1 tvg-id="" tvg-name="QA: Aljazeera English" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/51c11b909dcaabd37a51d3c6acbfb9b6.png" group-title="Qatar",QA: Aljazeera English
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/193553
+
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1be73f4c3f1f1da34597c5d7bc66af9d.png" group-title="Saudi Arabia",SA: SSC 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/280132
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0becff7ab082c21b4b63fdbc776c4588.png" group-title="Saudi Arabia",SA: SSC 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/280137
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b1eaee47e28f8f791d395cc621513a1a.png" group-title="Saudi Arabia",SA: SSC Extra 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/280136
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/290ace6ad49730b00a3a566470082a4e.png" group-title="Saudi Arabia",SA: SSC Extra 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/281462
