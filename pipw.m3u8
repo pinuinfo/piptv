@@ -144,3 +144,8 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/266
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/283053
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="UK",UK: Sky Sports Premier League
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/263
+
+#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="NL: ZIGGO Select" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d1bfb1240f4d7a3afa266815fff73b64.png" group-title="Netherlands",NL: ZIGGO Select
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/851
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO Voetbal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e58e720485579902f5b43088a245d978.png" group-title="Netherlands",NL: ZIGGO Voetbal
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/2502
