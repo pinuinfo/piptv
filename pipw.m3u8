@@ -207,6 +207,19 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/14987
 #EXTINF:-1 tvg-id="" tvg-name="HU: Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1d12bd490928de163de261dd7590183.png" group-title="Hungary",HU: Sport 2
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/14988
 
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6dbad401029775c28d9e7df7bbc58e81.png" group-title="Poland",PL: ELEVEN SPORTS 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/347
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0fe5b9578692f9baaeace94f995cc585.png" group-title="Poland",PL: ELEVEN SPORTS 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/3643
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png" group-title="Poland",PL: ELEVEN SPORTS 3
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/3644
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png" group-title="Poland",PL: ELEVEN SPORTS 4
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/3645
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL: Polsat Sport Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png" group-title="Poland",PL: Polsat Sport Premium 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/23199
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL: Polsat Sport Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png" group-title="Poland",PL: Polsat Sport Premium 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/29607
+
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal",PT: ELEVEN SPORTS 1
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/1499
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal",PT: ELEVEN SPORTS 2
