@@ -229,6 +229,23 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/1483
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal",PT: SPORT TV 2
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/1486
 
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: DIGI SPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="Romania",RO: DIGI SPORT 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/71457
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: DIGI SPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" group-title="Romania",RO: DIGI SPORT 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/71459
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: DIGI SPORT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" group-title="Romania",RO: DIGI SPORT 3
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/2243
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d4ab4ae9f452f94a08fb0260dbfcd765.png" group-title="Romania",RO: DIGI SPORT 4
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/4219
+#EXTINF:-1 tvg-id="" tvg-name="RO: Orange Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e70e6e9626f1897bdffde8502b1c0d7e.png" group-title="Romania",RO: Orange Sport 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/12727
+#EXTINF:-1 tvg-id="" tvg-name="RO: Orange Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/a634fcc7dcbf6f6fd401d99d392b7007.png" group-title="Romania",RO: Orange Sport 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/12728
+#EXTINF:-1 tvg-id="" tvg-name="RO: Orange Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/dce27150602da426152f4877cea7a33a.png" group-title="Romania",RO: Orange Sport 3
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/12729
+#EXTINF:-1 tvg-id="" tvg-name="RO: Orange Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/87ad489b64c6fe1b165e119d3f076650.png" group-title="Romania",RO: Orange Sport 4
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/12730
+
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="Qatar",QA: beIN Sports 1
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/100
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="Qatar",QA: beIN Sports 2
