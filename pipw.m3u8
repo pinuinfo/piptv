@@ -74,6 +74,31 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/296494
 #EXTINF:-1 tvg-id="" tvg-name="IN: SOMOY TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5e39825b86278ca2c52eb7b68d000249.jpeg" group-title="India",IN: SOMOY TV
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/296493
 
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="France",FR: beIN Sports 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/144
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="France",FR: beIN Sports 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/145
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e2a161fa7650f78d827bb7e8cd3c21.png" group-title="France",FR: beIN Sports Max 4
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/3599
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: beIN Sports Max 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c8cadfdb308ce51abcaac8220528833e.png" group-title="France",FR: beIN Sports Max 5
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/6083
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: beIN Sports Max 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6250ce9aa48d84200378db8e1c293ecb.png" group-title="France",FR: beIN Sports Max 6
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/4368
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: beIN Sports Max 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2834f48777b3cd3bd463f5f88a80a2d.png" group-title="France",FR: beIN Sports Max 7
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/4369
+#EXTINF:-1 tvg-id="rmcsportnews.fr" tvg-name="FR: RMC SPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="France",FR: RMC SPORT 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1937
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR: RMC SPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="France",FR: RMC SPORT 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1938
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ed9835d693546034bdf25efb8b3a7064.png" group-title="France",FR: RMC SPORT 3
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/279991
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7818fcb393391e3a63a512f8a92f0b7e.png" group-title="France",FR: CANAL+ Premier League
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/286794
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL+ Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/567fa14e0c1befb33fd593795f63452b.png" group-title="France",FR: CANAL+ Sport
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/143
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1c3051796e55e0ae4bc5c67f6bc50c49.jpg" group-title="France",FR: CANAL+ Sport 1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/291175
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia",MY: Astro SuperSport 1 (iptvtree)
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/146068
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia",MY: Astro SuperSport 1 (.ts)
