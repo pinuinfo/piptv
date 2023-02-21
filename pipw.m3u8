@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Formula 1",UK: Sky Sports F1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/265
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: Sky Sport F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png" group-title="Formula 1",GR: Sky Sport F1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/174563
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/275e92bab2c838ab3dfc18abf3bf2e48.png" group-title="Formula 1",IT: Sky Sport F1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/2542
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: DAZN F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fdf414dd4d51defa5e59c52c95abb2c5.png" group-title="Formula 1",ES: DAZN F1
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1672
+
 #EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ed17d1552de03d6c86481eb7b1deff6.png" group-title="India",IN: Cartoon Network
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/82584
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3681e2dc4800213e1c2c4142afe6108.png" group-title="India",IN: Disney Channel
