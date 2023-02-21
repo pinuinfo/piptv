@@ -7,6 +7,8 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/174563
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/2542
 #EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: DAZN F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fdf414dd4d51defa5e59c52c95abb2c5.png" group-title="Formula 1",ES: DAZN F1
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/1672
+#EXTINF:-1 tvg-id="Formula 1" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="",ZA: SuperSport Motorsport (iptvtree)
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/11638
 #EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a53b014f324eb9850b02cefe0b29e68a.png" group-title="Formula 1",US: ESPN
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/747
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bb7f0a14bf41b0d0cb5a524a7ef46dd6.png" group-title="Formula 1",US: ESPN 2
@@ -155,8 +157,6 @@ http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/109026.ts
 https://alexsports.shop:30444/live/abr_ch4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa",ZA: SuperSport LaLiga (FullHD)
 https://fullhdmatch.xyz/laligatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="South Africa",ZA: SuperSport Motorsport (iptvtree)
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/11638
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="South Africa",ZA: SuperSport Cricket (iptvtree)
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/11637
 
