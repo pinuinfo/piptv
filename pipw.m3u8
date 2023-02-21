@@ -22,6 +22,8 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/143
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD:  Independent TV" tvg-logo="http://www.theindependentbd.com/assets/news_images/rsz_47420.jpg" group-title="Bangladesh",BD:  Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BD: Channel 24" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Bangladesh",BD: Channel 24
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ed17d1552de03d6c86481eb7b1deff6.png" group-title="India",IN: Cartoon Network
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/82584
