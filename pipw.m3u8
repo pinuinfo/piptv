@@ -18,6 +18,11 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/170
 #EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL+ Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/567fa14e0c1befb33fd593795f63452b.png" group-title="Formula 1",FR: CANAL+ Sport
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/143
 
+#EXTINF:-1 tvg-id="" tvg-name="BD: DBC NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c364c68b726c8fb3acea5ca283fde6db.jpeg" group-title="Bangladesh",BD: DBC NEWS
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BD:  Independent TV" tvg-logo="http://www.theindependentbd.com/assets/news_images/rsz_47420.jpg" group-title="Bangladesh",BD:  Independent TV
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ed17d1552de03d6c86481eb7b1deff6.png" group-title="India",IN: Cartoon Network
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/82584
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3681e2dc4800213e1c2c4142afe6108.png" group-title="India",IN: Disney Channel
