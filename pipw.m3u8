@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Formula 1",UK: Sky Sports F1
+https://musajeeb.online/GTV/tracks-v1a1/mono.m3u8?token=test1
+
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Formula 1",UK: Sky Sports F1
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/265
 #EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: Sky Sport F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png" group-title="Formula 1",GR: Sky Sport F1
