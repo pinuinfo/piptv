@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Formula 1",UK: Sky Sports F1
-https://musajeeb.online/GTV/tracks-v1a1/mono.m3u8?token=test1
+https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/BYuOPB6quJgvGNh-SN9J_QjsUsfD85o37p7FSmIeFm3ldIxhnudpau7Vlwuycf386ugIBajg9VBMroKktAzIug/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/tw_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Formula 1",UK: Sky Sports F1
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/265
