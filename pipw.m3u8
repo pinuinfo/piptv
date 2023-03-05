@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Live Event" tvg-name="Live Event" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Events",Live Event
 https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BD: ATN Bangla" tvg-logo="http://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/af0246e9-8821-42bc-b8d8-4f9a9f739ce8/96adde62-5b86-4db1-bdde-1b2f8ef28c0b.jpg" group-title="BD",BD: ATN Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Formula 1",UK: Sky Sports F1
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/265
