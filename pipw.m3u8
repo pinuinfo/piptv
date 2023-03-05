@@ -5,6 +5,8 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD: News24" tvg-logo="https://www.allbanglanewspapersbd.com/img-files/tvnews/news24bd.png" group-title="BD",BD: News24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BD: DBC NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c364c68b726c8fb3acea5ca283fde6db.jpeg" group-title="Bangladesh",BD: DBC NEWS
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Formula 1",UK: Sky Sports F1
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/265
@@ -25,8 +27,6 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/143
 #EXTINF:-1 tvg-id="" tvg-name="SA: SSC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0becff7ab082c21b4b63fdbc776c4588.png" group-title="Formula 1",SA: SSC 2
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/280137
 
-#EXTINF:-1 tvg-id="" tvg-name="BD: DBC NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c364c68b726c8fb3acea5ca283fde6db.jpeg" group-title="Bangladesh",BD: DBC NEWS
-http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD:  Independent TV" tvg-logo="http://www.theindependentbd.com/assets/news_images/rsz_47420.jpg" group-title="Bangladesh",BD:  Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD: Channel 24" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Bangladesh",BD: Channel 24
