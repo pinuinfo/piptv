@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Live Event" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Events",Live Event
+#EXTINF:-1 tvg-id="Live Event" tvg-name="Live Event" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Events",Live Event
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Formula 1",UK: Sky Sports F1
