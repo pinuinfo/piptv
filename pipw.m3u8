@@ -74,6 +74,8 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/11511
 
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sports 18" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/0/07/Sports18_official_logo.png/200px-Sports18_official_logo.png" group-title="India Sports",IN: Sports 18
 http://watchindia.net:8880/live/62379/61325/2405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sports 18" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/0/07/Sports18_official_logo.png/200px-Sports18_official_logo.png" group-title="India Sports",IN: Sports 18
+http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="India Sports",IN: Sony Ten 1 (iptvtree)
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/16622
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="India Sports",IN: Sony Ten 1
