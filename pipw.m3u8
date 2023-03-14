@@ -3,6 +3,10 @@
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD: T Sports" tvg-logo="http://www.daily-sun.com/assets/news_images/2020/11/17/Ds-201117-35.jpg" group-title="BD",BD: T Sports
 http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BD: MOVISTAR LALIGA HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png" group-title="BD",BD: MOVISTAR LALIGA HD
+http://higherpro.xyz:8080/93ke76se23me65/m56da78me45m/38032
+
+http://higherpro.xyz:8080/93ke76se23me65/m56da78me45m/38043
 #EXTINF:-1 tvg-id="" tvg-name="BD: ATN Bangla" tvg-logo="http://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/af0246e9-8821-42bc-b8d8-4f9a9f739ce8/96adde62-5b86-4db1-bdde-1b2f8ef28c0b.jpg" group-title="BD",BD: ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD: News24" tvg-logo="https://www.allbanglanewspapersbd.com/img-files/tvnews/news24bd.png" group-title="BD",BD: News24
