@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Live Event" tvg-name="Live Event" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Events",Live Event
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BD: T Sports" tvg-logo="http://www.daily-sun.com/assets/news_images/2020/11/17/Ds-201117-35.jpg" group-title="BD",BD: T Sports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/aaNbEH7AhVjd6Ainjl4c0yyXYc5WMvwhH6TLVecqgE8uZF6eDn_KgMPH6Nq5fsqOs1sCwP6ofliexJRJOLpy-Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="BD: MOVISTAR LALIGA HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png" group-title="BD",BD: MOVISTAR LALIGA HD
 http://higherpro.xyz:8080/93ke76se23me65/m56da78me45m/38032
 
